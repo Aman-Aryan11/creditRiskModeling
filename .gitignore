@@ -1,0 +1,15 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local editor and OS files
+.DS_Store
+.vscode/
+.idea/
+
+# Logs and temporary output
+*.log
+*.tmp
